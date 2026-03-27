@@ -1,6 +1,12 @@
 C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\Logorhythms.Backend.exe
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\publish\web.config
 C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\appsettings.Development.json
 C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\appsettings.json
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\publish\appsettings.Development.json
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\publish\appsettings.json
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\publish\Logorhythms.Backend.deps.json
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\publish\Logorhythms.Backend.runtimeconfig.json
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\publish\Logorhythms.Backend.staticwebassets.endpoints.json
 C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\Logorhythms.Backend.dll
 C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\Logorhythms.Backend.runtimeconfig.json
 C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\publish\Logorhythms.Backend.pdb
