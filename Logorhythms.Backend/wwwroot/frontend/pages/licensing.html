@@ -7,7 +7,7 @@
       name="description"
       content="Submit new or renewal communications licensing applications to BOCRA."
     />
-    <title>Licensing — BOCRA</title>
+    <title>Licensing â€“ BOCRA</title>
     <link rel="stylesheet" href="../css/styles.css" />
     <link rel="stylesheet" href="../css/layout.css" />
     <link rel="stylesheet" href="../css/components.css" />
@@ -34,7 +34,7 @@
           </div>
           <div class="license-meta__item">
             <span class="license-meta__label">Average review</span>
-            <span class="license-meta__value">15–30 business days</span>
+            <span class="license-meta__value">15â€“30 business days</span>
           </div>
           <div class="license-meta__item">
             <span class="license-meta__label">Application ID</span>
@@ -42,7 +42,9 @@
           </div>
         </div>
 
+        <!-- The form now has an id so we can target it with JavaScript -->
         <form
+          id="licenseForm"
           class="form-panel form-panel--license"
           action="/api/licensing/applications"
           method="post"
@@ -253,5 +255,40 @@
     <div id="footer"></div>
 
     <script src="../js/main.js"></script>
+
+    <!-- Script to handle AJAX submission -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const form = document.getElementById('licenseForm');
+        if (!form) return;
+
+        form.addEventListener('submit', async function(e) {
+          e.preventDefault();
+
+          // Collect form data, including files
+          const formData = new FormData(form);
+
+          try {
+            const response = await fetch('/api/licensing/applications', {
+              method: 'POST',
+              body: formData
+              // No Content-Type header needed; fetch will set it with boundary
+            });
+
+            if (response.ok) {
+              const result = await response.json();
+              alert(result.message || 'Application submitted successfully!');
+              form.reset();  // clears all fields (including file inputs)
+            } else {
+              const errorText = await response.text();
+              alert('Error: ' + errorText);
+            }
+          } catch (error) {
+            console.error('Network error:', error);
+            alert('Network error. Please check your connection and try again.');
+          }
+        });
+      });
+    </script>
   </body>
 </html>

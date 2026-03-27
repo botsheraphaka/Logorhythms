@@ -153,7 +153,6 @@ c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\
 c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\rjsmrazor.dswa.cache.json
 c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
 c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\scopedcss\bundle\Logorhythms.Backend.styles.css
-c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\compressed\uaxmw61bsi-d2158kzd4y.gz
 c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\compressed\biflxur590-6ekx3957s2.gz
 c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\compressed\c04fw2kup7-p79vhnperf.gz
 c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\compressed\85v9h3hcpf-tooysl1jpo.gz
@@ -215,5 +214,12 @@ c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\bin\
 c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\bin\Release\net9.0\publish\web.config
 c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\bin\Release\net9.0\publish\Logorhythms.Backend.deps.json
 c:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\bin\Release\net9.0\publish\Logorhythms.Backend.runtimeconfig.json
-C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\compressed\3fpirmwkku-052v7s09f8.gz
 C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\compressed\xqjvgxy3u3-d6c2qt1e9x.gz
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\bin\Release\net9.0\publish\publish\web.config
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\bin\Release\net9.0\publish\publish\appsettings.Development.json
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\bin\Release\net9.0\publish\publish\appsettings.json
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\bin\Release\net9.0\publish\publish\Logorhythms.Backend.deps.json
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\bin\Release\net9.0\publish\publish\Logorhythms.Backend.runtimeconfig.json
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\bin\Release\net9.0\publish\publish\Logorhythms.Backend.staticwebassets.endpoints.json
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\compressed\uaxmw61bsi-dxoe6ll164.gz
+C:\Users\Goaletsa Ratsheko\OneDrive\Desktop\Logorhythms\Logorhythms.Backend\obj\Release\net9.0\compressed\3fpirmwkku-t58l9m90gx.gz
